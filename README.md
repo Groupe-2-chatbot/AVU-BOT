@@ -75,6 +75,6 @@ streamlit run app.py
 
 **Université :** IRGIB Africa
 
-**Projet :** Conception et développement d'un agent conversationnel.
+**Projet :** Conception ET development d'un agent conversational.
 
 **Nom :** AVU-BOT
